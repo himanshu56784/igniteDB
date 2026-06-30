@@ -1,0 +1,1 @@
+I built an in-memory database in Java from scratch that handles thousands of concurrent TCP connections, supports persistence, expiration, transactions, pipelining, replication, and benchmarking.
