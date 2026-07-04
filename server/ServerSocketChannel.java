@@ -1,0 +1,6 @@
+/**
+ * ServerSocketChannel
+ */
+public class ServerSocketChannel {
+
+}

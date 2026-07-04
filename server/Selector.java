@@ -1,0 +1,6 @@
+/**
+ * Selector
+ */
+public class Selector {
+
+}
