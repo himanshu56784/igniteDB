@@ -1,6 +1,0 @@
-/**
- * Selector
- */
-public class Selector {
-
-}
