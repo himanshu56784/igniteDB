@@ -1,6 +1,0 @@
-/**
- * ServerSocketChannel
- */
-public class ServerSocketChannel {
-
-}
